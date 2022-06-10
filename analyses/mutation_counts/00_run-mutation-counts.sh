@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -euo pipefail
+set -eu pipefail
 
 # Define relative path to data from this script
 DATA_DIR=../../data/processed/maf_files
